@@ -3,6 +3,7 @@
 A full-stack web application that lets users request doorstep pickup of e-waste, with the request routed through admin verification, nearest-center assignment, staff collection, and final recycling — with status tracking and notifications at every stage.
 
 **Live App:** https://e-waste-1-1qgy.onrender.com
+
 **Repository:** https://github.com/maheshkumar09104/E-waste
 
 ---
